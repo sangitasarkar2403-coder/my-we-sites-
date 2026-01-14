@@ -1,0 +1,104 @@
+#91FF21<!DOCTYPE html>
+<html>
+<head>
+  <title>Aditya Web Services</title>
+
+  <style>
+    body {
+      background: #f0f4f8;
+      font-family: Arial;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 420px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    h2 {
+      color: #16a085;
+      border-bottom: 2px solid #16a085;
+      padding-bottom: 5px;
+    }
+
+    p {
+      color: #333;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .btn {
+      display: block;
+      text-align: center;
+      background: #25D366;
+      color: white;
+      padding: 12px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: #777;
+      margin-top: 20px;
+    }
+  </style>
+
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>Aditya Web Services</h1>
+
+    <h2>About Me</h2>
+    <p>
+      আমি একজন bweb developer।  
+       আমি সুন্দর ও simple website বানাই ছোট ব্যবসার জন্য।
+    </p>
+
+    <h2>My Services</h2>
+    <ul>
+      <li>Business Website</li>
+      <li>Personal Website</li>
+      <li>Landing Page</li>
+      <li>WhatsApp Button Setup</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>
+      Website বানাতে চাইলে WhatsApp-এ যোগাযোগ করুন।
+    </p>
+
+    <a class="btn" href="https://wa.me/918617874074">
+      Chat on WhatsApp
+    </a>
+
+    <footer>
+      © 2026 Aditya Web Services
+    </footer>
+
+  </div>
+
+</body>
+</html>
+<img src="photo.jpg" width="200"
